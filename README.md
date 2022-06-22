@@ -6,4 +6,5 @@ As anotações seguindo a ordem do Bootcamp estão linkadas na pasta de anotaç�
 Cursos já realizados:
 
 1 - Introdução á programação e ao pensamento computacional
+
 2 - Git e Github
